@@ -2,7 +2,7 @@
 
 # Credits
 
-* theme: [TaylanTatli](https://github.com/TaylanTatli)
+* jekyll theme: [Halve](https://github.com/TaylanTatli/Halve)
 
 ### Others
 
